@@ -1,0 +1,589 @@
+position,tier,name,email,organizations,email_status
+1,0,Joel Paik,paik.jo@northeastern.edu,Forge,Published email
+2,0,Ashwin Iyer,iyer.ashw@northeastern.edu,Northeastern University Systematic Alpha,Published email
+3,0,Bailey Kim,kim.ba@northeastern.edu,Forge,Published email
+4,0,Erin Lynch,lynch.erin@northeastern.edu,Forge,Published email
+5,0,Nicky Mosharaf,mosharaf.n@northeastern.edu,Forge,Published email
+6,0,Anna Vogel,vogel.anna@northeastern.edu,Forge,Published email
+7,0,Dylan Solpon,solpon.d@northeastern.edu,Forge,Published email
+8,0,Nathaniel Yee,yee.n@northeastern.edu,Northeastern University Systematic Alpha,Published email
+9,0,Alex Lai,lai.ale@northeastern.edu,Forge,Published email
+10,0,Anastasiia Zotova,zotova.a@northeastern.edu,Entrepreneurs Club / HSC-SPARK,Published email + Clay verified
+11,0,Jay Liao,liao.jiar@northeastern.edu,Forge,Published email
+12,0,Vy Nguyen,nguyen.vy9@northeastern.edu,IDEA | NUImpact | Private Equity and Venture Capital Club (NU PEVC),Published email | Published cross-roster (name match)
+13,0,Ryan Kim,kim.ryan8@northeastern.edu,Forge,Published email
+14,0,Duke Diamond,diamond.d@northeastern.edu,Forge,Published email
+15,0,Alexander Viatchenko-Karpinski,viatchenkokarpinsk.a@northeastern.edu,Forge,Published email
+16,0,Jasmine So,so.ja@northeastern.edu,Forge,Published email
+17,0,Arshia Mathur,mathur.arsh@northeastern.edu,Mosaic,Published email
+18,0,Leah Groves,groves.le@northeastern.edu,Forge,Published email
+19,0,Emily Ferry,ferry.em@northeastern.edu,Forge,Published email
+20,0,Folajimi Olagundoye,olagundoye.fo@northeastern.edu,Entrepreneurs Club / HSC-SPARK,Engage officer email
+21,0,Brett Lendener,lendener.b@northeastern.edu,IDEA,Published email
+22,0,Joseph Heuser,heuser.j@northeastern.edu,Forge,Published email
+23,0,Alice Lee,lee.alice1@northeastern.edu,Mosaic,Published email
+24,0,Poorvi Tikoo,tikoo.p@northeastern.edu,IDEA,Published email
+25,0,Savannah Tang,tang.sav@northeastern.edu,Forge,Published email
+26,0,Nidhi Kaki,kaki.ni@northeastern.edu,IDEA,Published email
+27,0,Angel El Moucary,elmoucary.a@northeastern.edu,Forge,Published email
+28,0,Atul Phadke,phadke.at@northeastern.edu,Forge,Published email
+29,0,Leran Ban,ban.l@northeastern.edu,NUImpact,Engage officer email
+30,0,Alvar Repiso,idea.set@northeastern.edu,IDEA,Published email
+31,0,Mateo Wu Chen,wuchen.m@northeastern.edu,Forge,Published email
+32,0,Aaron Edelman,edelman.aa@northeastern.edu,Forge,Published email
+33,0,Elaine Ly,ly.el@northeastern.edu,NU AI Safety,Published email
+34,0,Nafisa Tasnia,tasnia.n@northeastern.edu,IDEA,Published email
+35,0,Holly Wagner,wagner.h@northeastern.edu,Forge,Published email
+36,0,Xiyu Yang,yang.xiyu@northeastern.edu,Network Science Institute Graduate Student Association,Engage officer email
+37,0,Ian Oliva,oliva.ia@northeastern.edu,Forge,Published email
+38,0,Kanwar Randhawa,randhawa.k@northeastern.edu,Forge,Published email
+39,0,Irena Sambo,sambo.v@northeastern.edu,Forge,Published email
+40,0,Lauryn Gong,gong.la@northeastern.edu,Forge,Published email
+41,0,Soham Padia,padia.so@northeastern.edu,NU AI Safety,Published email
+42,0,Hari Mohanraj,mohanraj.s@northeastern.edu,Forge,Published email
+43,0,Chase Myers,myers.chas@northeastern.edu,Forge,Published email
+44,0,Lydia Phimmasone,phimmasone.l@northeastern.edu,Forge,Published email
+45,0,Ludovica Melodia,melodia.l@northeastern.edu,Forge,Published email
+46,0,Akarsh Doki,doki.ak@northeastern.edu,Forge,Published email
+47,0,Abood Abu Saleh,abusaleh.a@northeastern.edu,Forge,Published email
+48,0,Troy Gunawardene,gunawardene.t@northeastern.edu,Entrepreneurs Club / HSC-SPARK | Mosaic,Engage officer email | Published email
+49,0,Sohum Balsara,balsara.s@northeastern.edu,Forge,Published email
+50,0,Abhishek Dabas,dabas.a@northeastern.edu,AI Skunkworks,Published email
+51,0,Zach Guan,guan.za@northeastern.edu,IDEA,Published email
+52,0,Nicole Parlett,parlett.n@northeastern.edu,Forge,Published email
+53,0,Sean Blundin,blundin.s@northeastern.edu,Mosaic,Published email
+54,0,Aanya Surana,surana.aa@northeastern.edu,Forge,Published email
+55,0,Lucy Shah,shah.lu@northeastern.edu,Forge,Published email
+56,0,Ariv Ahuja,ahuja.ari@northeastern.edu,Northeastern University Systematic Alpha,Published email
+57,0,Julia Basseto-Oliveira,bassetooliveira.j@northeastern.edu,Forge,Published email
+58,0,Kaitlin Rattray,rattray.k@northeastern.edu,Forge,Published email
+59,0,Abhi Goda,goda.ab@northeastern.edu,Forge,Published email
+60,0,Joseph Manberg,manberg.j@northeastern.edu,Student Value Fund | Private Equity and Venture Capital Club (NU PEVC),Published email | Published cross-roster (name match)
+61,0,Farah Ghajar,ghajar.f@northeastern.edu,Northeastern University Researchers of Neuroscience,Engage officer email
+62,0,Dylan Patel,patel.dylan@northeastern.edu,Forge,Published email
+63,0,Fiona Bischoff,bischoff.fi@northeastern.edu,Northeastern University Researchers of Neuroscience,Engage officer email
+64,0,Isha Madhusudhan,madhusudhan.i@northeastern.edu,IDEA,Published email
+65,0,Bina Bakhramova,bakhramova.b@northeastern.edu,Forge,Published email
+66,0,Spandana Rao,rao.sp@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Engage officer email
+67,0,Kelly Chan,chan.kelly@northeastern.edu,Forge,Published email
+68,0,Aditya Vij,vij.ad@northeastern.edu,Forge | NUImpact,Published email | Published cross-roster (name match)
+69,0,Vishal Parikh,parikh.vish@northeastern.edu,AI Northeastern (AINU),Engage officer email
+70,0,Amber Chan,chan.amb@northeastern.edu,Mosaic,Published email
+71,0,Nora Byrne,byrne.no@northeastern.edu,Bull & Bear Research | Finance and Investment Club,Published cross-roster (name match) | Engage officer email
+72,0,Ajay Senthil,senthil.aj@northeastern.edu,Forge,Published email
+73,0,Anya Duarte,duarte.any@northeastern.edu,Forge,Published email
+74,0,Ashley Manley,manley.as@northeastern.edu,Psychology Graduate Student Association,Published email
+75,0,Marina Kan,kan.m@northeastern.edu,IDEA,Published email
+76,0,Liz Raleigh,raleigh.e@northeastern.edu,Forge,Published email
+77,0,Gnana Shishir Kumar Chintapalli,chintapalli.g@northeastern.edu,AI Skunkworks,Engage officer email
+78,0,Madison Khuu,khuu.m@northeastern.edu,Forge,Published email
+79,0,Anika Bijala,bijala.a@northeastern.edu,IDEA,Published email
+80,0,Shresht Bhowmick,bhowmick.sh@northeastern.edu,Mosaic,Published email
+81,0,Angelina Williams,williams.ange@northeastern.edu,Northeastern University Researchers of Neuroscience,Engage officer email
+82,0,Adam Otsuka,otsuka.a@northeastern.edu,Forge,Published email + Clay verified
+83,0,Ryan Baylon,baylon.r@northeastern.edu,NU AI Safety,Published email
+84,0,Sammy Ko,ko.sam@northeastern.edu,Forge,Published email
+85,0,Krishan Gauri,gauri.k@northeastern.edu,AI Northeastern (AINU),Engage officer email
+86,0,Daniel Thomen,thomen.d@northeastern.edu,Entrepreneurs Club / HSC-SPARK,Engage officer email
+87,0,Abigail DeMaioribus,demaioribus.a@northeastern.edu,Finance and Investment Club,Engage officer email
+88,0,Caleb Groth,groth.c@northeastern.edu,Forge,Published email
+89,0,Owen Sharpe,sharpe.o@northeastern.edu,Northeastern University Systematic Alpha,Published email
+90,0,Arnav Mehta,mehta.arn@northeastern.edu,Northeastern University Systematic Alpha,Published email
+91,0,Lucas Salzgeber,salzgeber.l@northeastern.edu,Claude Builders Club | NUImpact,Published email | Published cross-roster (name match)
+92,0,Netochi Ibe,ibe.ne@northeastern.edu,Northeastern University Systematic Alpha,Published email
+93,0,Emily Pietras,pietras.e2336@northeastern.edu,Forge,Published email
+94,0,Ally Crowley,crowley.all@northeastern.edu,Forge,Published email
+95,0,Tania Bhatti,bhatti.t@northeastern.edu,Forge,Published email
+96,0,Grace McNamara,mcnamara.grac@northeastern.edu,Forge,Published email
+97,0,Sasha Shor,shor.al@northeastern.edu,Forge,Published email
+98,0,Annabelle Davis,davis.annab@northeastern.edu,Entrepreneurs Club / HSC-SPARK,Published email + Clay verified
+99,0,Nimit Dedhia,idea.go@northeastern.edu,IDEA,Published email
+100,0,Sabria Lopez,lopez.sab@northeastern.edu,Forge,Published email
+101,0,Inesh Parikh,parikh.in@northeastern.edu,Northeastern University Researchers of Neuroscience,Engage officer email
+102,0,Amelia Brooks,brooks.a@northeastern.edu,Mosaic,Published email
+103,0,Leven Chen,chen.lev@northeastern.edu,Forge,Published email
+104,0,Evan Chu,chu.ev@northeastern.edu,Forge,Published email
+105,0,Aayati Patel,patel.aaya@northeastern.edu,Forge,Published email
+106,0,Manan Gangwani,gangwani.m@northeastern.edu,Forge,Published email
+107,0,Eli Zislis,zislis.e@northeastern.edu,Mosaic,Published email
+108,0,Shreya Chellu,chellu.sh@northeastern.edu,Forge,Published email
+109,0,Simran Sehgal,sehgal.sim@northeastern.edu,Forge,Published email
+110,0,Grace Chau,chau.gr@northeastern.edu,Forge,Published email
+111,0,Tanay Mehrish,mehrish.t@northeastern.edu,Northeastern University Systematic Alpha,Published email
+112,0,Chloe Strawn,strawn.c@northeastern.edu,Mosaic,Published email
+113,0,Aiden Gold,gold.aid@northeastern.edu,Forge,Published email
+114,0,Arin Rakshe,rakshe.ar@northeastern.edu,Forge,Published email
+115,0,Alp Ayata,ayata.a@northeastern.edu,Forge,Published email
+116,0,Nick Ghantous,idea.ready@northeastern.edu,IDEA,Published email
+117,0,Pedro Manzoli,monzillomanzoli.p@northeastern.edu,Forge,Published email
+118,0,Asmita Sharma,sharma.asm@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Engage officer email
+119,0,Tanvi Chaudhary,chaudhary.t@northeastern.edu,Entrepreneurs Club / HSC-SPARK,Engage officer email
+120,0,Willis Ryckman V,ryckman.w@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Published email
+121,0,Justina Lim,lim.just@northeastern.edu,Forge,Published email
+122,0,Simran Sethi,sethi.sim@northeastern.edu,Forge,Published email
+123,0,Grace Whitney,whitney.gr@northeastern.edu,Forge,Published email
+124,0,Jaisukh Bangalore Krishne Gowda,bangalorekrishnego.j@northeastern.edu,AI Skunkworks,Engage officer email
+125,0,Frida Samuel,samuel.f@northeastern.edu,Forge,Published email
+126,0,Gia Bhutani,bhutani.g@northeastern.edu,IDEA,Published email
+127,0,Swarnima Dalmia,dalmia.s@northeastern.edu,Forge,Published email
+128,0,Isabella Patel,patel.isa@northeastern.edu,Mosaic,Published email
+129,0,Jayden Sun,sun.jay@northeastern.edu,Forge,Published email
+130,0,Anya Khemlani,khemlani.a@northeastern.edu,Northeastern University Researchers of Neuroscience,Engage officer email
+131,0,Alan Bao,bao.a@northeastern.edu,Forge,Published email
+132,0,Mahi Patel,patel.m18@northeastern.edu,Forge,Published email
+133,0,Yianni Apostolo,apostolo.y@northeastern.edu,Huntington Angels Network,Engage officer email
+134,0,Tara Shrestha,shrestha.t@northeastern.edu,Forge,Published email
+135,0,Melinda Lu,lu.meli@northeastern.edu,Mosaic,Published email
+136,0,Julia Olosky,olosky.j@northeastern.edu,NUImpact | ViTAL: Northeastern's Healthcare Innovation Core,Engage officer email
+137,0,Anthony Tropeano,tropeano.a@northeastern.edu,Finance and Investment Club,Engage officer email
+138,0,Carol Wang,wang.ruoxi2@northeastern.edu,Forge,Published email
+139,0,Harsh Singh,singh.harsh1@northeastern.edu,Generate,Published email
+140,0,Paarth Trehan,trehan.pa@northeastern.edu,Forge | Oasis,Published email | Published cross-roster (name match)
+141,0,Joe Guyon,guyon.j@northeastern.edu,Forge,Published email
+142,0,Itamar Dekel,dekel.i@northeastern.edu,Forge,Published email
+143,0,Neda Stoeva,stoeva.n@northeastern.edu,Northeastern University Researchers of Neuroscience,Engage officer email
+144,0,Ajay Gulati,gulati.aj@northeastern.edu,Forge | Private Equity and Venture Capital Club (NU PEVC),Published email | Published cross-roster (name match)
+145,0,Chloe Caliboso,caliboso.c@northeastern.edu,Forge,Published email
+146,0,Matthew Chen,chen.m5@northeastern.edu,Forge,Published email
+147,0,Jocelyn Lin,lin.joc@northeastern.edu,Forge,Published email
+148,0,Seth Brown,brown.set@northeastern.edu,Forge,Published email
+149,0,Max Eng,eng.max@northeastern.edu,Forge | NU AI Safety,Published email | Published cross-roster (name match)
+150,0,Audrey Thornal,thornal.a@northeastern.edu,Forge,Published email
+151,0,Isao Knox,knox.i@northeastern.edu,Finance and Investment Club,Engage officer email
+152,0,Khushi Patel,patel.khushi3@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Engage officer email
+153,0,Stephen Quartarone,quartarone.s@northeastern.edu,Forge,Published email
+154,0,Archi Marrapu,marrapu.a@northeastern.edu,Entrepreneurs Club / HSC-SPARK | IDEA | WISE — Women’s Interdisciplinary Society of Entrepreneurship,Engage officer email | Published email
+155,0,Christian Garcia,garcia.chris@northeastern.edu,Forge,Published email
+156,0,Rohan Kathuria,kathuria.r@northeastern.edu,NU AI Safety,Published email
+157,0,Sanjana Kamath,kamath.san@northeastern.edu,Forge,Published email
+158,0,Jia Amarnani,amarnani.j@northeastern.edu,Forge,Published email
+159,0,Khushi Shah,shah.khushi4@northeastern.edu,Entrepreneurs Club / HSC-SPARK,Engage officer email
+160,0,Aravind Balaji,balaji.ara@northeastern.edu,AI Skunkworks,Engage officer email
+161,0,Craig Ottaviano,ottaviano.c@northeastern.edu,Bull & Bear Research,Engage officer email
+162,0,Jonathan Li,li.jon@northeastern.edu,Forge,Published email
+163,0,Vritti Chadha,chadha.v@northeastern.edu,Entrepreneurs Club / HSC-SPARK,Engage officer email
+164,0,Lucas Cartagena,cartagena.l@northeastern.edu,Forge,Published email
+165,0,Mahmud Zamamiri,zamamiri.m@northeastern.edu,Forge,Published email
+166,0,Tanmay Thaker,thaker.t@northeastern.edu,IDEA,Published email
+167,0,Nidhi Bhat,bhat.nidh@northeastern.edu,Forge,Published email
+168,0,Sarah Yim,yim.s@northeastern.edu,Huntington Angels Network | Private Equity and Venture Capital Club (NU PEVC),Engage officer email | Published cross-roster (name match)
+169,0,Grace Sol,sol.g@northeastern.edu,Forge,Published email
+170,0,Zhouming Wu,wu.zhoum@northeastern.edu,Network Science Institute Graduate Student Association,Engage officer email
+171,0,Eduardo Mitzi,mitzimendez.e@northeastern.edu,Forge,Published email
+172,0,Sol Pérez León,perez.sol@northeastern.edu,IDEA,Published email
+173,0,Alice Wang,wang.yu35@northeastern.edu,Forge,Published email
+174,0,Megan Phan,phan.meg@northeastern.edu,Forge,Published email
+175,0,Ben Keiper,keiper.b@northeastern.edu,Forge,Published email
+176,0,Leah Mirchandani,mirchandani.l@northeastern.edu,IDEA,Published email
+177,0,Kristine Min,min.kr@northeastern.edu,Claude Builders Club | NUImpact,Published email | Published cross-roster (name match)
+178,0,Alina Wang,wang.alin@northeastern.edu,Forge,Published email
+179,0,Grace Kim,kim.grac@northeastern.edu,Forge,Published email
+180,0,Phaedra Sanon,sanon.p@northeastern.edu,Forge,Published email
+181,0,Jason Lo,lo.jas@northeastern.edu,Mosaic,Published email
+182,0,Mattia Bianco,bianco.m@northeastern.edu,NUImpact,Engage officer email
+183,0,Marie Sprong,sprong.m@northeastern.edu,Forge,Published email
+184,0,Kenny Chen,chen.kenny@northeastern.edu,Forge,Published email
+185,0,Abigail Malmud,malmud.a@northeastern.edu,Mosaic,Published email
+186,0,Meksha Patel,patel.mek@northeastern.edu,IDEA,Published email
+187,0,Ellie Bacon,bacon.e@northeastern.edu,Generate,Published email
+188,0,Shruti Patil,patil.shru@northeastern.edu,AI Skunkworks,Published email
+189,0,SaiCharan Challapalli,challapalli.si@northeastern.edu,Forge,Published email
+190,0,Lochan Chaudhari,chaudhari.lo@northeastern.edu,Network Science Institute Graduate Student Association,Engage officer email
+191,0,Karena Yau,yau.ka@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Published / portal email
+192,0,Katherine Kim,kim.kather@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Engage officer email
+193,0,Joshau Doodnauth,doodnauth.j@northeastern.edu,Forge,Published email
+194,0,Jonah Brockman,brockman.j@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Engage officer email
+195,0,Susan Kim,kim.susa@northeastern.edu,Generate,Published email
+196,0,Richie Nguyen,nguyen.ric@northeastern.edu,Forge,Published email
+197,0,Josh Kark,kark.j@northeastern.edu,Forge,Published email
+198,0,Shashank Sharma,sharma.shashan@northeastern.edu,Forge,Published email
+199,0,Colin Farley,farley.c@northeastern.edu,Bull & Bear Research,Engage officer email
+200,0,Alina Hussain,hussain.ali@northeastern.edu,NUImpact | Private Equity and Venture Capital Club (NU PEVC),Published cross-roster (name match) | Engage officer email
+201,0,Nidhi John,john.nid@northeastern.edu,Forge,Published email
+202,0,Allan Zhen,zhen.al@northeastern.edu,Forge,Published email
+203,0,Kyle Sharma,sharma.ky@northeastern.edu,Forge,Published email
+204,0,Nikita Nanavaty,nanavaty.n@northeastern.edu,IDEA,Published email
+205,0,Andrew Marotta,marotta.a@northeastern.edu,Bull & Bear Research | Private Equity and Venture Capital Club (NU PEVC),Published email
+206,0,Charlotte Napawan,napawan.t@northeastern.edu,IDEA,Published email
+207,0,Danny Brightman,brightman.d@northeastern.edu,Forge,Published email
+208,0,Pranav Thamil,thamil.p@northeastern.edu,IDEA,Published email
+209,0,Rhea Kallely,kallely.r@northeastern.edu,Forge,Published email
+210,0,Chris Gidwani,gidwani.ch@northeastern.edu,Forge,Published email
+211,0,Arnav Mishra,mishra.arn@northeastern.edu,Mosaic,Published email
+212,0,Zach Balandan,balandan.z@northeastern.edu,Forge,Published email
+213,0,Somayah Hussein,hussein.som@northeastern.edu,Forge,Published email
+214,0,Logan Gill,gill.lo@northeastern.edu,Forge,Published email
+215,0,Bindi Patel,patel.bind@northeastern.edu,Forge,Published email
+216,0,Moulika Sivalenka,sivalenka.m@northeastern.edu,IDEA,Published email
+217,0,Warren Chang,chang.war@northeastern.edu,IDEA,Published email
+218,0,Heewon Jung,jung.he@northeastern.edu,Forge | Undergraduate Research Club,Published email | Engage officer email
+219,0,Saloni Patel,patel.saloni@northeastern.edu,Forge,Published email
+220,0,Kathleen Altobelli,altobelli.k@northeastern.edu,Forge,Published email
+221,0,Indupriya Kompi,kompisadasivappa.i@northeastern.edu,AI Skunkworks,Published email
+222,0,Liliana Palomino,palomino.l@northeastern.edu,Generate,Published email
+223,0,Andrew Kuhn,kuhn.a@northeastern.edu,IDEA | Private Equity and Venture Capital Club (NU PEVC),Published email | Published cross-roster (name match)
+224,0,Paxton Nithikasem,nithikasem.p@northeastern.edu,Forge,Published email
+225,0,Sor Liu,liu.sor@northeastern.edu,Forge,Published email
+226,0,David Njoo,njoo.d@northeastern.edu,Forge,Published email
+227,0,Shaan Kapoor,kapoor.shaa@northeastern.edu,IDEA,Published email
+228,0,Luke Medalla,medalla.l@northeastern.edu,Mosaic,Published email
+229,0,Ryan Chang,chang.ry@northeastern.edu,Forge,Published email
+230,0,Shana Soyfer,soyfer.s@northeastern.edu,Mosaic,Published email
+231,0,Shiv Patel,patel.shiv3@northeastern.edu,AI Northeastern (AINU),Engage officer email
+232,0,Nethra Raju,raju.n@northeastern.edu,Mosaic,Published email
+233,0,Nandeenee Singh,singh.nand@northeastern.edu,Generate,Published email
+234,0,Camryn Cunningham,cunningham.c@northeastern.edu,Generate,Published email
+235,1,Narayan Sajeev,sajeev.n@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+236,1,Lucas Glockner,glockner.l@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+237,1,Chloe Lum,lum.c@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+238,1,Karthik Pisupati,pisupati.k@northeastern.edu,Bull & Bear Research | NUImpact,Northeastern directory (name match)
+239,1,Avery Neuner,neuner.a@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+240,1,Charlotte Flynn,flynn.char@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+241,1,Garima Penumechchu,penumechchu.g@northeastern.edu,NUImpact | Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+242,1,Tyler Knox,knox.ty@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+243,1,Karina Advani,advani.k@northeastern.edu,NUImpact,Northeastern directory (name match)
+244,1,Diana Heung,heung.d@northeastern.edu,NUImpact,Northeastern directory (name match)
+245,1,Divya Gopalakrishnan,gopalakrishnan.d@northeastern.edu,NUImpact,Northeastern directory (name match)
+246,1,Sebastian Estela,estela.s@northeastern.edu,NUImpact,Northeastern directory (name match)
+247,1,Tanisha Shenoy,shenoy.tan@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+248,1,Terrence Pikul,pikul.t@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+249,1,Jessica Meng,meng.je@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+250,1,Manav Mahida,mahida.m@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+251,1,Mikayla Balcom,balcom.m@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+252,1,Ruchi Alavilli,alavilli.r@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+253,1,William Hon,hon.w@northeastern.edu,NUImpact,Northeastern directory (name match)
+254,1,Joseph Looney,looney.jos@northeastern.edu,NUImpact,Northeastern directory (name match)
+255,1,Charlotte Kent,kent.cha@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+256,1,Charlotte Gliddon,gliddon.c@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+257,1,Tina Ni,ni.tin@northeastern.edu,IDEA,Northeastern directory (name match)
+258,1,Shruthi Munusamy,munusamy.s@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+259,1,Tanmay Kommalapati,kommalapati.t@northeastern.edu,NUImpact,Northeastern directory (name match)
+260,1,Nicholas Antonius,antonius.n@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+261,1,Avee Shah,shah.av@northeastern.edu,NUImpact,Northeastern directory (name match)
+262,1,Emily Rybalko,rybalko.e@northeastern.edu,Finance and Investment Club,Northeastern directory (name match)
+263,1,Emma Pasternak,pasternak.e@northeastern.edu,NUImpact,Northeastern directory (name match)
+264,1,Joyce Liang,liang.joy@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+265,1,Isabel Lau,lau.is@northeastern.edu,NUImpact,Northeastern directory (name match)
+266,1,Thorsten Meister,meister.t@northeastern.edu,NUImpact,Northeastern directory (name match)
+267,1,Rishika Goteti,goteti.r@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+268,1,Lissandra Ferrante,ferrante.lis@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+269,1,Luka Juric,juric.lu@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+270,1,Alyssa Diwale,diwale.a@northeastern.edu,NUImpact,Northeastern directory (name match)
+271,1,Cem Yilmaz,yilmaz.ce@northeastern.edu,NUImpact,Northeastern directory (name match)
+272,1,Arhan Batur,batur.a@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+273,1,Ruhi Salhotra,salhotra.r@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+274,1,Shrishti Ghosh,ghosh.shr@northeastern.edu,NUImpact | Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+275,1,Vedant Rajeev,rajeev.v@northeastern.edu,NUImpact,Northeastern directory (name match)
+276,1,Derek Zaeske,zaeske.d@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+277,1,Patrick Klopp,klopp.p@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+278,1,Juliana Kim,kim.julian@northeastern.edu,NUImpact,Northeastern directory (name match)
+279,1,Aidan Marino,marino.ai@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+280,1,Gonçalo Soares,soares.go@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+281,1,Divya Sukhija,sukhija.d@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+282,1,Jaya Gupta,gupta.jaya1@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+283,1,Joshua Arent,arent.j@northeastern.edu,NUImpact,Northeastern directory (name match)
+284,1,Rebekah Campus-Hartman,campushartman.r@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+285,1,Neer Patel,patel.n8@northeastern.edu,NUImpact,Northeastern directory (name match)
+286,1,Nour Ahmad,ahmad.no@northeastern.edu,NUImpact,Northeastern directory (name match)
+287,1,Harshini Pathivada,pathivada.h@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+288,1,Riya Pallamreddy,pallamreddy.r@northeastern.edu,Bull & Bear Research | NUImpact,Northeastern directory (name match)
+289,1,Jack Whalen,whalen.ja@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+290,1,Stephen Corrou,corrou.s@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+291,1,Vivian Stewart,stewart.v@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+292,1,Owen Quinn,quinn.ow@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+293,1,Pranav Narang,narang.pr@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+294,1,Jennifer Wiitala,wiitala.j@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+295,1,Christopher Herrnstein,herrnstein.c@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+296,1,Bridget Swineford,swineford.b@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+297,1,Lulu Yu,yu.jas1@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+298,1,Alice Duong,duong.al@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+299,1,Anika Teckchandani,teckchandani.a@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+300,1,Angelina Shi,shi.ange@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+301,1,Rick Li,li.rick@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+302,1,Yin Yan Lui,lui.y@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+303,1,Giada Palazzo,palazzo.g@northeastern.edu,AI Northeastern (AINU),Northeastern directory (name match)
+304,1,Alec Le Baut,lebaut.a@northeastern.edu,NUImpact,Northeastern directory (name match)
+305,1,Suchnoor Ahuja,ahuja.su@northeastern.edu,Bull & Bear Research | Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+306,1,Bailey Mead,mead.b@northeastern.edu,NUImpact,Northeastern directory (name match)
+307,1,Christian Lau,lau.christia@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+308,1,Rylee Iwamoto,iwamoto.r@northeastern.edu,NUImpact,Northeastern directory (name match)
+309,1,Emily Bradburn,bradburn.e@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+310,1,Andrew Gojgini,gojgini.a@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+311,1,Meredith Lee,lee.mer@northeastern.edu,NUImpact,Northeastern directory (name match)
+312,1,Lola Garneau,garneau.lo@northeastern.edu,NUImpact,Northeastern directory (name match)
+313,1,Riva Paripati,paripati.r@northeastern.edu,NUImpact,Northeastern directory (name match)
+314,1,Ria Vira,vira.r@northeastern.edu,NUImpact | Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+315,1,Nicholas Reichert,reichert.n@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+316,1,Mannan Wadhawan,wadhawan.m@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+317,1,Ryan Majumdar,majumdar.r@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+318,1,Malav Ravula,ravula.ma@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+319,1,Aryan Madan,madan.ary@northeastern.edu,AI Northeastern (AINU),Northeastern directory (name match) + Clay verified
+320,1,Alex Zheng,zheng.ale@northeastern.edu,NUImpact,Northeastern directory (name match)
+321,1,WanHao Sun,sun.wanh@northeastern.edu,NUImpact,Northeastern directory (name match)
+322,1,Angelina Tung,tung.ang@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+323,1,Darsh Bhalala,bhalala.da@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+324,1,Misha Vasilevskiy,vasilevskiy.m@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+325,1,Vansh Sukhwani,sukhwani.v@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+326,1,Saanvi Swarup,swarup.sa@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+327,1,Nina Nguyen,nguyen.nina@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+328,1,Juan Iriarte,iriarte.j@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+329,1,Ben Rosenberg,rosenberg.be@northeastern.edu,Bull & Bear Research | Huntington Angels Network,Northeastern directory (name match)
+330,1,Lucrezia Tranchina,tranchina.l@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+331,1,Justin Wigdor,wigdor.j@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+332,1,Riyana Dutta,dutta.riy@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+333,1,Alisha Srivastava,srivastava.al@northeastern.edu,NUImpact,Northeastern directory (name match)
+334,1,Aarish Kodnaney,kodnaney.a@northeastern.edu,NUImpact,Northeastern directory (name match)
+335,1,Aarzu Choudhary,choudhary.aar@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+336,1,Allie Clark,clark.all@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+337,1,Lucia Von Stange,vonstange.l@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+338,1,Mikail Ghani,ghani.m@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+339,1,Olga Almazova,almazova.o@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+340,1,Charles Marsh,marsh.ch@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+341,1,Isabella Betparoo,betparoo.i@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+342,1,Aimee Yang,yang.aime@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+343,1,Vaunshal Saraiya,saraiya.va@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+344,1,Arnav Jhamvar,jhamvar.a@northeastern.edu,NUImpact,Northeastern directory (name match)
+345,1,Deven Hikspoors,hikspoors.d@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+346,1,Sofia Becerra,becerra.so@northeastern.edu,NUImpact,Northeastern directory (name match)
+347,1,Carter Guynn,guynn.c@northeastern.edu,Finance and Investment Club,Northeastern directory (name match)
+348,1,Nicole Stekol,stekol.n@northeastern.edu,AI Northeastern (AINU),Northeastern directory (name match)
+349,1,Sophia Yen,yen.so@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+350,1,Soham Nighojkar,nighojkar.s@northeastern.edu,NUImpact,Northeastern directory (name match)
+351,1,Henry Lodge,lodge.h@northeastern.edu,AI Northeastern (AINU),Northeastern directory (name match)
+352,1,Brittany Melendez,melendez.b@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+353,1,Peter Hixson,hixson.p@northeastern.edu,NUImpact,Northeastern directory (name match)
+354,1,Varun Kolluri,kolluri.v@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+355,1,Hasith Kadiyala,kadiyala.ha@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+356,1,Ananya Ravishankar,ravishankar.an@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+357,1,Shivam Dave,dave.shiv@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+358,1,Ryan Chong,chong.r@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+359,1,Alexander Servitopoulos,servitopoulos.a@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+360,1,Maygala Selvisudhakar,selvisudhakar.m@northeastern.edu,NUImpact,Northeastern directory (name match)
+361,1,James Goldman,goldman.jam@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+362,1,Gabriel Cambara,cambara.g@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+363,1,Dhruvi Kapadia,kapadia.dhr@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+364,1,Larry Xie,xie.lar@northeastern.edu,NUImpact,Northeastern directory (name match)
+365,1,Isabelle Shih,shih.i@northeastern.edu,NUImpact,Northeastern directory (name match)
+366,1,Zoe Cheung,cheung.zo@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+367,1,Harshitha Harinarayanan,harinarayanan.h@northeastern.edu,NUImpact,Northeastern directory (name match)
+368,1,Gautham Kotha,kotha.ga@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+369,1,Juliet Khadem,khadem.j@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+370,1,Anna Bashlakova,bashlakova.a@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+371,1,George Burkov,burkov.g@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+372,1,Garima Chauhan,chauhan.ga@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+373,1,Rohan Kalaria,kalaria.ro@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+374,1,Cyanne Kim,kim.cy@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+375,1,William Shin,shin.wi@northeastern.edu,NUImpact,Northeastern directory (name match)
+376,1,Ahmad Shaikh,shaikh.ah@northeastern.edu,Bull & Bear Research | Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+377,1,Shrikar Lanka,lanka.shr@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+378,1,Shreyash Sinha,sinha.shre@northeastern.edu,NUImpact,Northeastern directory (name match)
+379,1,Jia Bhaidasna,bhaidasna.j@northeastern.edu,NUImpact,Northeastern directory (name match)
+380,1,Jake Eisner,eisner.ja@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+381,1,Rohan Sheth,sheth.ro@northeastern.edu,NUImpact,Northeastern directory (name match)
+382,1,Aden Levy,levy.ad@northeastern.edu,Huntington Angels Network,Northeastern directory (name match)
+383,1,Reyhaan Gehani,gehani.re@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+384,1,Anthony Jerrick,jerrick.a@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+385,1,Zakary Maneckshaw,maneckshaw.z@northeastern.edu,NUImpact,Northeastern directory (name match)
+386,1,Reagan McDowell,mcdowell.r@northeastern.edu,NUImpact,Northeastern directory (name match)
+387,1,Eshaan Atreya,atreya.e@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+388,1,Ayush Munot,munot.a@northeastern.edu,NUImpact,Northeastern directory (name match)
+389,1,Era Shah,shah.era@northeastern.edu,NUImpact,Northeastern directory (name match)
+390,1,Om Hirani,hirani.o@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+391,1,Parth Makhija,makhija.p@northeastern.edu,NUImpact,Northeastern directory (name match)
+392,1,Revathi Srinivasan,srinivasan.re@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+393,1,Julia Rowniewski,rowniewski.j@northeastern.edu,NU AI Safety,Northeastern directory (name match)
+394,1,Eesha Parimi,parimi.e@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+395,1,Dev Goel,goel.de@northeastern.edu,NUImpact,Northeastern directory (name match)
+396,1,Sunithi Krishnan,krishnan.sun@northeastern.edu,NUImpact,Northeastern directory (name match)
+397,1,Rishi Duvvuru,duvvuru.ri@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+398,1,Arvin Balani,balani.arv@northeastern.edu,NUImpact,Northeastern directory (name match)
+399,1,Rishika Challa,challa.ris@northeastern.edu,NUImpact,Northeastern directory (name match)
+400,1,Madeline Shih,shih.mad@northeastern.edu,NUImpact | WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+401,1,Sairah Sachdeva,sachdeva.sai@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+402,1,Leo Shimmura,shimmura.l@northeastern.edu,NUImpact,Northeastern directory (name match)
+403,1,Cristian Salvan,salvan.c@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+404,1,Dhilan Vyas,vyas.dhil@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+405,1,Alexander Simone,simone.ale@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+406,1,Mark Yang,yang.mar@northeastern.edu,AI Northeastern (AINU),Northeastern directory (name match)
+407,1,Javier Ibarguen,ibarguen.j@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+408,1,Grace Tan,tan.gr@northeastern.edu,NUImpact,Northeastern directory (name match)
+409,1,Joel Guerra,guerra.jo@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+410,1,Marie Remmers,remmers.m@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+411,1,Caelyn Casey,casey.cae@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+412,1,Arav Sawhney,sawhney.ara@northeastern.edu,NUImpact,Northeastern directory (name match)
+413,1,Lulu Ross,ross.lu@northeastern.edu,NUImpact,Northeastern directory (name match)
+414,1,Eliana Kazin,kazin.e@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+415,1,Cameryn Stewart,stewart.cam@northeastern.edu,Finance and Investment Club,Northeastern directory (name match)
+416,1,Jade Chan,chan.jad@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+417,1,Sehaj Chadha,chadha.se@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+418,1,Rohanna White,white.ro@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+419,1,Kaitlyn Harle,harle.k@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+420,1,Kelly Yam,yam.k@northeastern.edu,Bull & Bear Research,Northeastern directory (name match)
+421,1,Sebastian de la Torre,delatorre.s@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+422,1,Sanjit Kosaraju,kosaraju.s@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+423,1,Charles Prieto,prieto.c@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),Northeastern directory (name match)
+424,1,Muad Abdi,abdi.mu@northeastern.edu,NUImpact,Northeastern directory (name match)
+425,1,Sophia Soran,soran.s@northeastern.edu,NUImpact | WISE — Women’s Interdisciplinary Society of Entrepreneurship,Northeastern directory (name match)
+426,2,Ankit Kumar Sahoo,sahoo.anki@northeastern.edu,Data Analytics Engineering Student Organization,Engage officer email
+427,2,Anna Ryan,ryan.an@northeastern.edu,DATA Club,Engage officer email
+428,2,Hrishikesh Prabhu,prabhu.hr@northeastern.edu,Data Analytics Engineering Student Organization,Engage officer email
+429,2,Rebecca Lee,lee.rebec@northeastern.edu,Women in Technology,Engage officer email
+430,2,Victoria Whisnant,whisnant.v@northeastern.edu,Sandbox,Published email
+431,2,Jasmyn Loelke,loelke.ja@northeastern.edu,The Business and Innovative Technologies Club,Engage officer email
+432,2,Brad Derby,derby.b@northeastern.edu,Sandbox,Published email
+433,2,Bryan Baboolal,baboolal.b@northeastern.edu,Sandbox,Published email
+434,2,Nick Pfeiffer,pfeiffer.n@northeastern.edu,Sandbox,Published local part + directory
+435,2,Lauren Brissette,brissette.l@northeastern.edu,Sandbox,Published email
+436,2,Anthony Jones,jones.anth@northeastern.edu,Claude Builders Club,Published email
+437,2,Riya Patel,patel.r10@northeastern.edu,Finance for the Community,Engage officer email
+438,2,Jinnapat Buranasombati,buranasombati.j@northeastern.edu,Global Research and Consulting Group - Northeastern Branch,Engage officer email
+439,2,Arihant AM,artheeswarimugunda.a@northeastern.edu,Data Analytics Engineering Student Organization,Engage officer email
+440,2,Varaalakshime Vigneswara Pandiarajan,vigneswarapandiara.v@northeastern.edu,Data Analytics Engineering Student Organization,Engage officer email
+441,2,Deekshita Madhalam,madhalam.d@northeastern.edu,Women in Technology,Engage officer email
+442,2,Ryley Crosby,crosby.ry@northeastern.edu,Global Research and Consulting Group - Northeastern Branch,Engage officer email
+443,2,Andrea Lee,lee.andrea@northeastern.edu,Sandbox,Published email
+444,2,Chaeeun Moon,moon.chae@northeastern.edu,Korean Investment Society at D'Amore-McKim School of Business,Engage officer email
+445,2,Saanvi Shetty,shetty.saan@northeastern.edu,Finance for the Community,Engage officer email
+446,2,Izzy Pott,pott.i@northeastern.edu,Women in the Enterprise of Science and Technology at Northeastern,Engage officer email
+447,2,Emily Zhou,zhou.emily@northeastern.edu,Women in the Enterprise of Science and Technology at Northeastern,Engage officer email
+448,2,Jackson Lamoureux,lamoureux.ja@northeastern.edu,Claude Builders Club,Published email
+449,2,Mitali Vasudevan,vasudevan.mi@northeastern.edu,Global Research and Consulting Group - Northeastern Branch,Engage officer email
+450,2,Xiaole Su,su.xiaol@northeastern.edu,Sandbox,Published email
+451,2,Abigail Marsella,marsella.a@northeastern.edu,Women in the Enterprise of Science and Technology at Northeastern,Engage officer email
+452,2,Rania Khan,khan.ran@northeastern.edu,DATA Club,Engage officer email
+453,2,Rebecca Choi,choi.re@northeastern.edu,Sandbox,Published email
+454,2,Angela Weigl,weigl.a@northeastern.edu,Sandbox,Published email
+455,2,Sascha Mund de Laurens,munddelaurensdesai.s@northeastern.edu,Global Research and Consulting Group - Northeastern Branch,Engage officer email
+456,2,Olga Meserman,meserman.o@northeastern.edu,Undergraduate Research Club,Engage officer email
+457,2,Nina Lal,lal.nin@northeastern.edu,The Business and Innovative Technologies Club,Engage officer email
+458,2,Meggan Shvartsberg,shvartsberg.m@northeastern.edu,Sandbox,Published email
+459,2,Hannah Bang,bang.ha@northeastern.edu,ACM at Northeastern,Engage officer email
+460,2,Alexa Van Voorhis,vanvoorhis.a@northeastern.edu,Graduate Women in Science and Engineering,Engage officer email
+461,2,Sophia Ngo,ngo.so@northeastern.edu,Sandbox,Published email
+462,2,Taylor Dunn,dunn.tay@northeastern.edu,Quantum Community,Engage officer email
+463,2,Jolin Huang,huang.jol@northeastern.edu,Sandbox,Published email
+464,2,Jiajie Lin,lin.jiaji@northeastern.edu,DATA Club,Engage officer email
+465,2,Nitish Gannu,gannu.n@northeastern.edu,Sandbox,Published email
+466,2,Grace Guo,guo.gr@northeastern.edu,ViTAL: Northeastern's Healthcare Innovation Core,Engage officer email
+467,2,Joshua Geyfman,geyfman.j@northeastern.edu,Blockchain@NEU,Engage officer email
+468,2,Harini Avula,avula.ha@northeastern.edu,Sandbox,Published email
+469,2,Justin Cross,cross.ju@northeastern.edu,Bioengineering Graduate Student Council,Engage officer email
+470,2,Ananya Patil,patil.anan@northeastern.edu,Sandbox,Published email
+471,2,Tara Monks,monks.t@northeastern.edu,Nu Rho Psi National Honor Society in Neuroscience,Engage officer email
+472,2,Elvin Cheng,cheng.elv@northeastern.edu,Sandbox,Published email
+473,2,Mouad Tiahi,tiahi.m@northeastern.edu,Computer Science Mentoring Organization of Northeastern University,Engage officer email
+474,2,Jake Langlois,langlois.j@northeastern.edu,Sandbox,Published email
+475,2,Owen Keegan,keegan.o@northeastern.edu,Student Value Fund,Published email
+476,2,Sarina Dhaliwal,dhaliwal.sa@northeastern.edu,Women in the Enterprise of Science and Technology at Northeastern,Engage officer email
+477,2,Hanseul Chang,chang.hans@northeastern.edu,Korean Investment Society at D'Amore-McKim School of Business,Engage officer email
+478,2,Donny Le,le.don@northeastern.edu,Sandbox,Published email
+479,2,Michael Song,song.mich@northeastern.edu,Sandbox,Published email
+480,2,Andre Bancu,bancu.a@northeastern.edu,Undergraduate Research Club,Engage officer email
+481,2,Pavithra Mahadevan,mahadevan.p@northeastern.edu,Graduate Women in Science and Engineering,Engage officer email
+482,2,Oliver Yang,yang.o@northeastern.edu,ViTAL: Northeastern's Healthcare Innovation Core,Engage officer email
+483,2,Kobe Zheng,zheng.ko@northeastern.edu,Sandbox,Published email
+484,2,Rishi Bhandari,bhandari.rish@northeastern.edu,DATA Club,Engage officer email
+485,2,Kangho Ji,ji.kang@northeastern.edu,ViTAL: Northeastern's Healthcare Innovation Core,Engage officer email
+486,2,Jonathan Wells,wells.jo@northeastern.edu,Student Value Fund,Published email
+487,2,Kevin Eng,eng.kev@northeastern.edu,Sandbox,Published email
+488,2,Brycen Bonilla,bonilla.b@northeastern.edu,Quantum Community,Engage officer email
+489,2,Aidan Ormsby,ormsby.a@northeastern.edu,Student Value Fund,Published email
+490,2,Samson Moreira,moreira.sa@northeastern.edu,Student Value Fund,Published email
+491,2,Aaniya Mahajan,mahajan.aan@northeastern.edu,DATA Club,Engage officer email
+492,2,Hyunyong Jung,jung.hyu@northeastern.edu,Korean Investment Society at D'Amore-McKim School of Business,Engage officer email
+493,2,Yewon Lee,lee.yewon@northeastern.edu,Korean Investment Society at D'Amore-McKim School of Business,Engage officer email
+494,2,Eric Sun,sun.eric@northeastern.edu,Sandbox,Published email
+495,2,Yejin Yang,yang.yej@northeastern.edu,Undergraduate Research Club,Engage officer email
+496,2,Ellie Eskandar,eskandar.e@northeastern.edu,Student Value Fund,Published email
+497,2,Massimo Prag,prag.m@northeastern.edu,Blockchain@NEU,Engage officer email
+498,2,Jordan Praissman,praissman.j@northeastern.edu,Sandbox,Published email
+499,2,Alex Green,green.a1@northeastern.edu,Claude Builders Club,Published email
+500,2,Jayden Ngo,ngo.ja@northeastern.edu,Sandbox,Published email
+501,2,Alaina Fernandes,fernandes.ala@northeastern.edu,ViTAL: Northeastern's Healthcare Innovation Core,Engage officer email
+502,2,Tracy Huang,huang.tr@northeastern.edu,Sandbox,Published email
+503,2,Catherine Marshburn,marshburn.c@northeastern.edu,Nu Rho Psi National Honor Society in Neuroscience,Engage officer email
+504,2,Bryce Axe,axe.b@northeastern.edu,Bioengineering Graduate Student Council,Published email
+505,2,Elaine Zou,zou.el@northeastern.edu,DATA Club,Engage officer email
+506,2,Gabi Schwarz,schwarz.g@northeastern.edu,Sandbox,Published email
+507,2,Neil Keltcher,keltcher.n@northeastern.edu,DATA Club,Engage officer email
+508,2,Sophia Fu,fu.so@northeastern.edu,Computer Science Mentoring Organization of Northeastern University,Engage officer email
+509,2,Anusha Narang,narang.an@northeastern.edu,Women in Technology,Engage officer email
+510,2,Shrish Bayyapu,bayyapu.s@northeastern.edu,Nu Rho Psi National Honor Society in Neuroscience,Engage officer email
+511,2,Andrew Tang,tang.andrew@northeastern.edu,Student Value Fund,Published email
+512,2,Matthew Wang,wang.mat@northeastern.edu,Sandbox,Published email
+513,2,Olivia Li,li.ol@northeastern.edu,Sandbox,Published email
+514,2,Armaan Mehra,mehra.ar@northeastern.edu,Sandbox,Published email
+515,2,Livia Cutra,cutra.l@northeastern.edu,Women in the Enterprise of Science and Technology at Northeastern,Engage officer email
+516,2,Daniel Jacob,jacob.da@northeastern.edu,Sandbox,Published email
+517,2,Ishaan Tayal,tayal.is@northeastern.edu,Student Value Fund,Published email
+518,2,Wesley Tran,tran.we@northeastern.edu,Sandbox,Published email
+519,2,Malini Rajkumar,rajkumar.mal@northeastern.edu,Graduate Women in Science and Engineering,Engage officer email
+520,2,Gillian Palmer,palmer.gi@northeastern.edu,Sandbox,Published email
+521,2,Gabriella Zelenchuk,zelenchuk.g@northeastern.edu,Undergraduate Research Club,Engage officer email
+522,2,Prisha Ganatra,ganatra.p@northeastern.edu,Women in the Enterprise of Science and Technology at Northeastern,Engage officer email
+523,2,Manasa Rajesh,rajesh.man@northeastern.edu,Undergraduate Research Club,Engage officer email
+524,2,Natalie Ohanian,ohanian.n@northeastern.edu,Undergraduate Research Club,Engage officer email
+525,2,Amelie Eng,eng.ame@northeastern.edu,Sandbox,Published email
+526,2,Oliver Ward,ward.ol@northeastern.edu,Claude Builders Club,Published email
+527,2,Jaesung Kim,kim.jaes@northeastern.edu,Korean Investment Society at D'Amore-McKim School of Business,Engage officer email
+528,2,Nikita Rajakumar,rajakumar.n@northeastern.edu,Graduate Women in Science and Engineering,Engage officer email
+529,2,Gayatri Kondabathini,kondabathini.g@northeastern.edu,Sandbox,Published email
+530,2,Lily Lane,lane.li@northeastern.edu,Undergraduate Research Club,Engage officer email
+531,2,Christina Velez,velez.c@northeastern.edu,Bioengineering Graduate Student Council,Published email
+532,2,Filitsa Vasiliades,vasiliades.f@northeastern.edu,Nu Rho Psi National Honor Society in Neuroscience,Engage officer email
+533,2,Do Hyeon Kim,dohyeon.k@northeastern.edu,Korean Investment Society at D'Amore-McKim School of Business,Engage officer email
+534,2,Olivia Lipman,lipman.o@northeastern.edu,The Business and Innovative Technologies Club,Engage officer email
+535,2,Hedieh Karimitar,karimitar.h@northeastern.edu,Bioengineering Graduate Student Council,Engage officer email
+536,2,Connie Lin,lin.con@northeastern.edu,Sandbox,Published email
+537,2,Dennis Wang,wang.yicheng4@northeastern.edu,Sandbox,Published email
+538,2,Christine Cho,cho.ch@northeastern.edu,Sandbox,Published email
+539,2,Aria Agarwal,agarwal.ari@northeastern.edu,ViTAL: Northeastern's Healthcare Innovation Core,Engage officer email
+540,2,Maddy Tansley,tansley.m@northeastern.edu,Computer Science Mentoring Organization of Northeastern University,Engage officer email
+541,2,Ekam Bhatia,bhatia.eka@northeastern.edu,ACM at Northeastern,Engage officer email
+542,2,Avani Chhabra,chhabra.av@northeastern.edu,Nu Rho Psi National Honor Society in Neuroscience,Engage officer email
+543,2,Carter Herman,herman.car@northeastern.edu,Sandbox,Published email
+544,2,Anita Janie Christdoss Chelladurai,christdosschelladu.a@northeastern.edu,Data Analytics Engineering Student Organization,Engage officer email
+545,2,Poulami Mondal,mondal.po@northeastern.edu,Bioengineering Graduate Student Council,Engage officer email
+546,2,Max Uhlberg,uhlberg.m@northeastern.edu,ACM at Northeastern,Engage officer email
+547,2,Vishwesh P V,pv.v@northeastern.edu,Data Analytics Engineering Student Organization,Engage officer email
+548,2,Isabella Valle,valle.i@northeastern.edu,Women in the Enterprise of Science and Technology at Northeastern,Engage officer email
+549,2,Amoli Patel,patel.amol@northeastern.edu,Sandbox,Published email
+550,2,Anzhuo Wang,wang.anz@northeastern.edu,Sandbox,Published email
+551,2,Serena Ng,ng.se@northeastern.edu,Sandbox,Published email
+552,2,Santiago Cuervo Paez,cuervopaez.s@northeastern.edu,DATA Club,Engage officer email
+553,2,Vaishnavi Gajarla,gajarla.v@northeastern.edu,Data Analytics Engineering Student Organization,Engage officer email
+554,2,Mina Shokoufandeh,shokoufandeh.m@northeastern.edu,Bioengineering Graduate Student Council,Published email
+555,2,Owen Simpson,simpson.o@northeastern.edu,Sandbox,Published email
+556,2,Jasmin Duong,duong.jas@northeastern.edu,Sandbox,Published email
+557,2,Kaiyang Zheng,zheng.kaiy@northeastern.edu,Sandbox,Published email
+558,2,Samaira Sethi,sethi.sam@northeastern.edu,The Business and Innovative Technologies Club,Engage officer email
+559,2,Nathaniel Lycette,lycette.n@northeastern.edu,Student Value Fund,Published email
+560,2,Liam Carvajal,carvajal.l@northeastern.edu,Sandbox,Published email
+561,2,Michael Mehall,mehall.m@northeastern.edu,Sandbox,Published email
+562,2,Sarah Zhang,zhang.sarah1@northeastern.edu,Sandbox,Published email
+563,2,Noa Yedidia,yedidia.n@northeastern.edu,ViTAL: Northeastern's Healthcare Innovation Core,Engage officer email
+564,2,Prerana Koliwad,koliwad.p@northeastern.edu,Graduate Women in Science and Engineering,Engage officer email
+565,2,Nakyeong Kang,kang.nak@northeastern.edu,Korean Investment Society at D'Amore-McKim School of Business,Engage officer email
+566,2,Lucia Kempton,kempton.l@northeastern.edu,Quantum Community,Engage officer email
+567,2,Reyna Ahuja,ahuja.re@northeastern.edu,ViTAL: Northeastern's Healthcare Innovation Core,Engage officer email
+568,2,Ananya Rath,rath.an@northeastern.edu,Sandbox,Published email
+569,2,Smyan Sengupta,sengupta.sm@northeastern.edu,ACM at Northeastern | Claude Builders Club,Engage officer email | Published email
+570,2,Shireen Kumar,kumar.shire@northeastern.edu,Sandbox,Published email
+571,3,Shiven Ajwaliya,ajwaliya.s@northeastern.edu,Oasis,Northeastern directory (name match)
+572,3,Alison Ye,ye.ali@northeastern.edu,ACM at Northeastern,Northeastern directory (name match)
+573,3,Vasuretha Chandar,chandar.v@northeastern.edu,Bioengineering Graduate Student Council,Northeastern directory (name match)
+574,3,Ameeka Patel,patel.ameek@northeastern.edu,Sandbox,Northeastern directory (name match)
+575,3,Catherine Gore,gore.c@northeastern.edu,Sandbox,Northeastern directory (name match)
+576,3,Ashley Zheng,zheng.as@northeastern.edu,Oasis,Northeastern directory (name match)
+577,3,Ripandeep Kaur,kaur.ri@northeastern.edu,Oasis,Northeastern directory (name match)
+578,3,Shourya Yadav,yadav.sho@northeastern.edu,Claude Builders Club,Northeastern directory (name match)
+579,3,Gavin Normand,normand.g@northeastern.edu,Sandbox,Northeastern directory (name match)
+580,3,Arvind Kashyap,kashyap.ar@northeastern.edu,Student Value Fund,Northeastern directory (name match)
+581,3,Malcolm Tavaria,tavaria.m@northeastern.edu,Oasis,Northeastern directory (name match)
+582,3,Alton Banushi,banushi.a@northeastern.edu,Sandbox,Northeastern directory (name match)
+583,3,Audrey Ng,ng.au@northeastern.edu,Oasis,Northeastern directory (name match)
+584,3,Karthik Sengupta,sengupta.k@northeastern.edu,Khoury Master’s Student Council,Northeastern directory (name match)
+585,3,Jahnavi Bulusu,bulusu.j@northeastern.edu,Oasis,Northeastern directory (name match)
+586,3,Jolin Yang,yang.jol@northeastern.edu,Oasis,Northeastern directory (name match)
+587,3,Matthew Shi,shi.mat@northeastern.edu,ACM at Northeastern,Northeastern directory (name match)
+588,3,Mehr Anand,anand.me@northeastern.edu,ACM at Northeastern | Claude Builders Club,Northeastern directory (name match)
