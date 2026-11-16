@@ -28,12 +28,12 @@ position,name,email,organizations,tier,status,sent_at,message_id
 27,Angel El Moucary,elmoucary.a@northeastern.edu,Forge,0,SENT,2026-11-16T16:22:02-05:00,1a1e63d01a16f49b
 28,Atul Phadke,phadke.at@northeastern.edu,Forge,0,SENT,2026-11-16T16:25:16-05:00,1a1e63ff848197cc
 29,Leran Ban,ban.l@northeastern.edu,NUImpact,0,SENT,2026-11-16T16:27:51-05:00,1a1e6424ab483fc2
-30,Alvar Repiso,idea.set@northeastern.edu,IDEA,0,PENDING,,
-31,Mateo Wu Chen,wuchen.m@northeastern.edu,Forge,0,PENDING,,
-32,Aaron Edelman,edelman.aa@northeastern.edu,Forge,0,PENDING,,
-33,Elaine Ly,ly.el@northeastern.edu,NU AI Safety,0,PENDING,,
-34,Nafisa Tasnia,tasnia.n@northeastern.edu,IDEA,0,PENDING,,
-35,Holly Wagner,wagner.h@northeastern.edu,Forge,0,PENDING,,
+30,Alvar Repiso,idea.set@northeastern.edu,IDEA,0,SENT,2026-11-16T17:18:18-05:00,1a1e670827af2cbf
+31,Mateo Wu Chen,wuchen.m@northeastern.edu,Forge,0,SENT,2026-11-16T17:21:00-05:00,1a1e672fbc71a84c
+32,Aaron Edelman,edelman.aa@northeastern.edu,Forge,0,SENT,2026-11-16T17:23:22-05:00,1a1e675275fbd19e
+33,Elaine Ly,ly.el@northeastern.edu,NU AI Safety,0,SENT,2026-11-16T17:26:55-05:00,1a1e67865bdbe2af
+34,Nafisa Tasnia,tasnia.n@northeastern.edu,IDEA,0,SENT,2026-11-16T17:29:18-05:00,1a1e67a94c080c91
+35,Holly Wagner,wagner.h@northeastern.edu,Forge,0,SENT,2026-11-16T17:30:53-05:00,1a1e67c02c7dd5ea
 36,Xiyu Yang,yang.xiyu@northeastern.edu,Network Science Institute Graduate Student Association,0,PENDING,,
 37,Ian Oliva,oliva.ia@northeastern.edu,Forge,0,PENDING,,
 38,Kanwar Randhawa,randhawa.k@northeastern.edu,Forge,0,PENDING,,
