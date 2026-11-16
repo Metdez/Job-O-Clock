@@ -27,7 +27,7 @@ Re-running the same day only sends the remainder of the 30. Stops immediately on
 Run `python execution/send_outreach.py --go` once per day (a long-running process; it sleeps between sends).
 It needs a machine that stays on for ~9 hours/day for ~20 days (cron on a server, or a daily scheduled task).
 Days needed: 588 / 30 = 20. Starting Nov 17 the last send is ~Dec 6, after the Dec 3 event; the shortlist
-tiers (425 people) finish ~Nov 30. Raise `--per-day` to finish sooner.
+tiers (425 people) finish ~Dec 1. Raise `--per-day` to finish sooner.
 
 ## Notes / risks
 - All 588 addresses are @northeastern.edu. 209 of them are name-match-only (provisional), so some may be the wrong person.
