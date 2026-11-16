@@ -1,0 +1,53 @@
+﻿Northeastern event contacts
+# Northeastern event contacts
+""
+Researched 2026-11-15.
+""
+"- 49 organizations mapped, including one optional research-institute category."
+"- 641 named people in 672 person–organization records (staff, faculty and advisors removed)."
+- 588 distinct selected person email addresses.
+- 53 people have no selected address.
+""
+"Published teams and accessible Northeastern officer rosters, researched November 15, 2026. Full general-membership lists were not available. Older and undated sources are labeled; ambiguous or malformed emails are held for review."
+""
+## Files
+""
+"- contacts.csv: every captured person and role, with evidence."
+- emails.csv: deduplicated selected email list.
+"- published-and-portal-contacts.csv: direct publication/portal evidence, excluding provisional name-only matches."
+- unresolved.csv: missing or ambiguous records; candidate counts are retained; ambiguous alternatives are not selected addresses.
+"- organizations.csv: topics, speaker fit, group mailboxes and roster gaps."
+- group-mailboxes.csv: shared organization inboxes.
+- current-published-contacts.csv: directly published or portal contacts with a current/live listing.
+- speaker-shortlist.csv: suggested first organizations based on the two described speakers.
+- historical-and-unconfirmed.csv: older source terms requiring confirmation.
+- clay-checks.csv: relevant Clay results and identity holds.
+- northeastern-event-contacts.xlsx: these tables as filtered workbook sheets.
+- data.json: structured data with all captured source links.
+"- dashboard.html: downloadable searchable dashboard; contains the dataset, so share deliberately."
+""
+## Method and limitations
+""
+- Engage: 32 relevant organization pages checked; 145 authenticated officer records captured. Officer lists are not full club membership. No clubs were joined and no messages were sent.
+""
+"- Public research: complete displayed team sections were captured where available, including Forge product teams, Sandbox project teams, NUImpact, PEVC and WISE. Unnamed contributors, private membership and closed rosters remain unavailable."
+""
+"- Directory matching: exact full names (and explicitly corroborated aliases) only. A unique name match is provisional identity evidence, not proof of club association or mailbox delivery. Multiple matching identities are left unresolved."
+""
+- Clay: a coordinated 21-person pilot/follow-up used 34 provider actions and 6.0 existing credits. Relevant accepted checks are labeled in this dataset. A deliverable address for Chen Zhou was rejected as a match for Cindy Zhou. A separate six-person follow-up used 2.5 credits and added no accepted emails; the remaining 12 scoped targets were not run after poor yield. Luke Miller’s provider candidate was rejected because the directory identifies Lindsey Chorney. No top-ups or outreach.
+""
+"- Freshness: Fall 2026 is explicit for AINU, WISE and Bull & Bear. Forge product-team term is inferred from f26 source asset paths. PEVC retains November 2025 context; HAN bios retain summer-2026-forward wording. Mosaic and old Skunkworks records remain visibly historical."
+""
+"- Email source errors: malformed Sandbox/IDEA addresses are preserved in published_email and notes, excluded from email unless independently resolved. Meksha Patel has a visible/mailto spelling conflict and is flagged."
+""
+"- Scope is student officers and named student team contributors. Faculty, staff and advisors (including the Institute for Cognitive and Brain Health researcher roster) were removed on 2026-11-15; see the ""Removed (staff-faculty)"" sheet."
+""
+"- The downloadable CSV/XLSX includes evidence links, status, dates, historical flags, unresolved identities and a deduplicated email list. Institutional publications and directory listings are not SMTP tests."
+""
+## Email confidence
+""
+"Engage officer email: the authenticated portal links the name, role and mailbox. Published email: a primary club, university, professional profile or research page displays the address. Northeastern directory (name match): one exact name matched, but that alone does not prove that the mailbox belongs to this club member. Published cross-roster (name match): the address appears for the same full name on another roster; association may need confirmation. Ambiguous records are held without a selected email."
+""
+"No addresses were invented from naming conventions. Source typos are preserved in published_email and notes. Clay validity is a point-in-time provider result, not guaranteed delivery or identity ownership. No event invitations or other outreach were sent."
+""
+Sources and observed dates are attached to each record. Primary source wording about currentness is retained. Live pages without a semester are not claimed as confirmed Fall 2026 membership.
