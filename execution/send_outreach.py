@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Send the NEU VC + Founder invite from Gmail (zack@solid.tech), N per day at random times.
+"""Send the NEU VC + Founder invite from Gmail (zack@solid.tech), N per day (default 33) at random times.
 
 Default is a DRY RUN: nothing is sent. Use --go to really send. See directives/send_outreach.md.
 
@@ -89,7 +89,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--go", action="store_true", help="actually send (default is dry run)")
     ap.add_argument("--test-to", help="send ONE real test email to this address and exit")
-    ap.add_argument("--per-day", type=int, default=30)
+    ap.add_argument("--per-day", type=int, default=33)
     ap.add_argument("--window", default="9-18", help="send window, ET hours, e.g. 9-18")
     ap.add_argument("--min-gap", type=int, default=240, help="min seconds between sends")
     a = ap.parse_args()

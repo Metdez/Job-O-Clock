@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """Helper for the hourly scheduled outreach (sends go through the Gmail connector, not the API).
 
-  next    -> JSON: who to send RIGHT NOW (this hour's share of today's 30). Sends/records nothing.
+  next    -> JSON: who to send RIGHT NOW (this hour's share of today's 33). Sends/records nothing.
   record EMAIL MESSAGE_ID  -> append to send_log.csv (call once per email actually sent)
   status  -> counts
 
 Schedule: fires hourly 9:00-17:59 ET (9 fires). Each fire sends remaining_today / fires_left (+/-1 jitter);
-the last fire of the day sends whatever is left. Cap 30/day, counted from send_log.csv (so reruns are safe).
+the last fire of the day sends whatever is left. Cap 33/day, counted from send_log.csv (so reruns are safe).
 """
 import csv, hashlib, json, os, random, sys
 from datetime import datetime
@@ -17,7 +17,7 @@ QUEUE, LOG, DNC = f"{D}/send_queue.csv", f"{D}/send_log.csv", f"{D}/do_not_email
 FLYER = os.path.abspath("assets/fireside-chats-flyer.png")
 TPL = "templates/neu_vc_founder"
 TZ = ZoneInfo("America/New_York")
-PER_DAY, FIRST_H, LAST_H = 30, 9, 17
+PER_DAY, FIRST_H, LAST_H = 33, 9, 17
 FIELDS = ["sent_at", "email", "name", "position", "message_id"]
 
 def rd(p): return list(csv.DictReader(open(p, encoding="utf-8-sig"))) if os.path.exists(p) else []

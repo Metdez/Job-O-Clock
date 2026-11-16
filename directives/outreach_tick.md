@@ -1,7 +1,7 @@
 # Hourly outreach tick (Gmail connector, zack@solid.tech)
 
 A scheduled task wakes the Claude session every hour, 9:17-17:17 ET, and this runs. Replaces the API-script path
-(`send_outreach.py` stays as an optional fallback). Cap: 30/day, counted from `data/northeastern-event-contacts/send_log.csv`.
+(`send_outreach.py` stays as an optional fallback). Cap: 33/day, counted from `data/northeastern-event-contacts/send_log.csv`.
 
 ## Each tick
 1. `cd /home/user/Job-O-Clock && git pull -q origin claude/tender-clarke-14zweq` (skip if it errors; the local files are fine).
