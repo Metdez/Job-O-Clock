@@ -56,3 +56,7 @@ sent_at,email,name,position,message_id,kind
 2026-11-17T13:20:09-05:00,surana.aa@northeastern.edu,Aanya Surana,54,1a1eabcd83da35dd,queue
 2026-11-17T13:22:05-05:00,shah.lu@northeastern.edu,Lucy Shah,55,1a1eabea06bc166e,queue
 2026-11-17T13:23:53-05:00,ahuja.ari@northeastern.edu,Ariv Ahuja,56,1a1eac04043e4402,queue
+2026-11-17T14:18:00-05:00,bassetooliveira.j@northeastern.edu,Julia Basseto-Oliveira,57,1a1eaf1d1c272d80,queue
+2026-11-17T14:19:57-05:00,rattray.k@northeastern.edu,Kaitlin Rattray,58,1a1eaf3998c02546,queue
+2026-11-17T14:21:53-05:00,goda.ab@northeastern.edu,Abhi Goda,59,1a1eaf55e25f626d,queue
+2026-11-17T14:23:40-05:00,manberg.j@northeastern.edu,Joseph Manberg,60,1a1eaf6fc53d2799,queue
