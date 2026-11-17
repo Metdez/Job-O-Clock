@@ -64,11 +64,11 @@ position,name,email,organizations,tier,status,sent_at,message_id
 63,Fiona Bischoff,bischoff.fi@northeastern.edu,Northeastern University Researchers of Neuroscience,0,SENT,2026-11-17T16:18:07-05:00,1a1eb5fc8d4d1201
 64,Isha Madhusudhan,madhusudhan.i@northeastern.edu,IDEA,0,SENT,2026-11-17T16:20:03-05:00,1a1eb618ed8f943f
 65,Bina Bakhramova,bakhramova.b@northeastern.edu,Forge,0,SENT,2026-11-17T16:22:02-05:00,1a1eb6357f041ac8
-66,Spandana Rao,rao.sp@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),0,PENDING,,
-67,Kelly Chan,chan.kelly@northeastern.edu,Forge,0,PENDING,,
-68,Aditya Vij,vij.ad@northeastern.edu,Forge | NUImpact,0,PENDING,,
-69,Vishal Parikh,parikh.vish@northeastern.edu,AI Northeastern (AINU),0,PENDING,,
-70,Amber Chan,chan.amb@northeastern.edu,Mosaic,0,PENDING,,
+66,Spandana Rao,rao.sp@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),0,SENT,2026-11-17T17:17:53-05:00,1a1eb968005a5510
+67,Kelly Chan,chan.kelly@northeastern.edu,Forge,0,SENT,2026-11-17T17:19:39-05:00,1a1eb981e98a84fa
+68,Aditya Vij,vij.ad@northeastern.edu,Forge | NUImpact,0,SENT,2026-11-17T17:21:26-05:00,1a1eb99be43f0acd
+69,Vishal Parikh,parikh.vish@northeastern.edu,AI Northeastern (AINU),0,SENT,2026-11-17T17:23:13-05:00,1a1eb9b62c02e269
+70,Amber Chan,chan.amb@northeastern.edu,Mosaic,0,SENT,2026-11-17T17:25:01-05:00,1a1eb9d008fef37b
 71,Nora Byrne,byrne.no@northeastern.edu,Bull & Bear Research | Finance and Investment Club,0,PENDING,,
 72,Ajay Senthil,senthil.aj@northeastern.edu,Forge,0,PENDING,,
 73,Anya Duarte,duarte.any@northeastern.edu,Forge,0,PENDING,,
