@@ -70,3 +70,7 @@ sent_at,email,name,position,message_id,kind
 2026-11-17T17:21:26-05:00,vij.ad@northeastern.edu,Aditya Vij,68,1a1eb99be43f0acd,queue
 2026-11-17T17:23:13-05:00,parikh.vish@northeastern.edu,Vishal Parikh,69,1a1eb9b62c02e269,queue
 2026-11-17T17:25:01-05:00,chan.amb@northeastern.edu,Amber Chan,70,1a1eb9d008fef37b,queue
+2026-11-18T09:18:20-05:00,byrne.no@northeastern.edu,Nora Byrne,71,1a1ef05c62ed2081,queue
+2026-11-18T09:20:17-05:00,senthil.aj@northeastern.edu,Ajay Senthil,72,1a1ef079650c1170,queue
+2026-11-18T09:22:13-05:00,duarte.any@northeastern.edu,Anya Duarte,73,1a1ef095ede32075,queue
+2026-11-18T09:24:13-05:00,manley.as@northeastern.edu,Ashley Manley,74,1a1ef0b2a9dec10b,queue
