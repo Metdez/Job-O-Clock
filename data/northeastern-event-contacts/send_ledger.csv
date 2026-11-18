@@ -92,10 +92,10 @@ position,name,email,organizations,tier,status,sent_at,message_id
 91,Lucas Salzgeber,salzgeber.l@northeastern.edu,Claude Builders Club | NUImpact,0,SENT,2026-11-18T14:20:47-05:00,1a1f01ab42f8f670
 92,Netochi Ibe,ibe.ne@northeastern.edu,Northeastern University Systematic Alpha,0,SENT,2026-11-18T14:22:43-05:00,1a1f01c7fe34e018
 93,Emily Pietras,pietras.e2336@northeastern.edu,Forge,0,SENT,2026-11-18T14:24:41-05:00,1a1f01e44aba3fb7
-94,Ally Crowley,crowley.all@northeastern.edu,Forge,0,PENDING,,
-95,Tania Bhatti,bhatti.t@northeastern.edu,Forge,0,PENDING,,
-96,Grace McNamara,mcnamara.grac@northeastern.edu,Forge,0,PENDING,,
-97,Sasha Shor,shor.al@northeastern.edu,Forge,0,PENDING,,
+94,Ally Crowley,crowley.all@northeastern.edu,Forge,0,SENT,2026-11-18T15:17:58-05:00,1a1f04f12af2a1ea
+95,Tania Bhatti,bhatti.t@northeastern.edu,Forge,0,SENT,2026-11-18T15:19:55-05:00,1a1f050dad24923a
+96,Grace McNamara,mcnamara.grac@northeastern.edu,Forge,0,SENT,2026-11-18T15:21:52-05:00,1a1f052a24ba7612
+97,Sasha Shor,shor.al@northeastern.edu,Forge,0,SENT,2026-11-18T15:23:50-05:00,1a1f0546b292405c
 98,Annabelle Davis,davis.annab@northeastern.edu,Entrepreneurs Club / HSC-SPARK,0,PENDING,,
 99,Nimit Dedhia,idea.go@northeastern.edu,IDEA,0,PENDING,,
 100,Sabria Lopez,lopez.sab@northeastern.edu,Forge,0,PENDING,,

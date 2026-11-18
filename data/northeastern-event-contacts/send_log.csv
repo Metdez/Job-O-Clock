@@ -93,3 +93,7 @@ sent_at,email,name,position,message_id,kind
 2026-11-18T14:20:47-05:00,salzgeber.l@northeastern.edu,Lucas Salzgeber,91,1a1f01ab42f8f670,queue
 2026-11-18T14:22:43-05:00,ibe.ne@northeastern.edu,Netochi Ibe,92,1a1f01c7fe34e018,queue
 2026-11-18T14:24:41-05:00,pietras.e2336@northeastern.edu,Emily Pietras,93,1a1f01e44aba3fb7,queue
+2026-11-18T15:17:58-05:00,crowley.all@northeastern.edu,Ally Crowley,94,1a1f04f12af2a1ea,queue
+2026-11-18T15:19:55-05:00,bhatti.t@northeastern.edu,Tania Bhatti,95,1a1f050dad24923a,queue
+2026-11-18T15:21:52-05:00,mcnamara.grac@northeastern.edu,Grace McNamara,96,1a1f052a24ba7612,queue
+2026-11-18T15:23:50-05:00,shor.al@northeastern.edu,Sasha Shor,97,1a1f0546b292405c,queue
