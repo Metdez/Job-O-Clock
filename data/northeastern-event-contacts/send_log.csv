@@ -74,3 +74,7 @@ sent_at,email,name,position,message_id,kind
 2026-11-18T09:20:17-05:00,senthil.aj@northeastern.edu,Ajay Senthil,72,1a1ef079650c1170,queue
 2026-11-18T09:22:13-05:00,duarte.any@northeastern.edu,Anya Duarte,73,1a1ef095ede32075,queue
 2026-11-18T09:24:13-05:00,manley.as@northeastern.edu,Ashley Manley,74,1a1ef0b2a9dec10b,queue
+2026-11-18T10:18:00-05:00,kan.m@northeastern.edu,Marina Kan,75,1a1ef3c74efe2b39,queue
+2026-11-18T10:19:57-05:00,raleigh.e@northeastern.edu,Liz Raleigh,76,1a1ef3e3bd79caf0,queue
+2026-11-18T10:21:54-05:00,chintapalli.g@northeastern.edu,Gnana Shishir Kumar Chintapalli,77,1a1ef40022737926,queue
+2026-11-18T10:23:52-05:00,khuu.m@northeastern.edu,Madison Khuu,78,1a1ef41cc055a1a0,queue

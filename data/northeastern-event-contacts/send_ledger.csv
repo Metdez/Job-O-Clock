@@ -73,10 +73,10 @@ position,name,email,organizations,tier,status,sent_at,message_id
 72,Ajay Senthil,senthil.aj@northeastern.edu,Forge,0,SENT,2026-11-18T09:20:17-05:00,1a1ef079650c1170
 73,Anya Duarte,duarte.any@northeastern.edu,Forge,0,SENT,2026-11-18T09:22:13-05:00,1a1ef095ede32075
 74,Ashley Manley,manley.as@northeastern.edu,Psychology Graduate Student Association,0,SENT,2026-11-18T09:24:13-05:00,1a1ef0b2a9dec10b
-75,Marina Kan,kan.m@northeastern.edu,IDEA,0,PENDING,,
-76,Liz Raleigh,raleigh.e@northeastern.edu,Forge,0,PENDING,,
-77,Gnana Shishir Kumar Chintapalli,chintapalli.g@northeastern.edu,AI Skunkworks,0,PENDING,,
-78,Madison Khuu,khuu.m@northeastern.edu,Forge,0,PENDING,,
+75,Marina Kan,kan.m@northeastern.edu,IDEA,0,SENT,2026-11-18T10:18:00-05:00,1a1ef3c74efe2b39
+76,Liz Raleigh,raleigh.e@northeastern.edu,Forge,0,SENT,2026-11-18T10:19:57-05:00,1a1ef3e3bd79caf0
+77,Gnana Shishir Kumar Chintapalli,chintapalli.g@northeastern.edu,AI Skunkworks,0,SENT,2026-11-18T10:21:54-05:00,1a1ef40022737926
+78,Madison Khuu,khuu.m@northeastern.edu,Forge,0,SENT,2026-11-18T10:23:52-05:00,1a1ef41cc055a1a0
 79,Anika Bijala,bijala.a@northeastern.edu,IDEA,0,PENDING,,
 80,Shresht Bhowmick,bhowmick.sh@northeastern.edu,Mosaic,0,PENDING,,
 81,Angelina Williams,williams.ange@northeastern.edu,Northeastern University Researchers of Neuroscience,0,PENDING,,
