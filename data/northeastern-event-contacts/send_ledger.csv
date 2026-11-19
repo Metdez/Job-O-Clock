@@ -116,9 +116,9 @@ position,name,email,organizations,tier,status,sent_at,message_id
 115,Alp Ayata,ayata.a@northeastern.edu,Forge,0,SENT,2026-11-19T11:19:57-05:00,1a1f49b85661195f
 116,Nick Ghantous,idea.ready@northeastern.edu,IDEA,0,SENT,2026-11-19T11:21:46-05:00,1a1f49d2ffb156d9
 117,Pedro Manzoli,monzillomanzoli.p@northeastern.edu,Forge,0,SENT,2026-11-19T11:23:35-05:00,1a1f49ecfba502ff
-118,Asmita Sharma,sharma.asm@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,0,PENDING,,
-119,Tanvi Chaudhary,chaudhary.t@northeastern.edu,Entrepreneurs Club / HSC-SPARK,0,PENDING,,
-120,Willis Ryckman V,ryckman.w@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),0,PENDING,,
+118,Asmita Sharma,sharma.asm@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,0,SENT,2026-11-19T12:17:47-05:00,1a1f4d0777bc8693
+119,Tanvi Chaudhary,chaudhary.t@northeastern.edu,Entrepreneurs Club / HSC-SPARK,0,SENT,2026-11-19T12:19:44-05:00,1a1f4d23e243d091
+120,Willis Ryckman V,ryckman.w@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),0,SENT,2026-11-19T12:21:44-05:00,1a1f4d40a81e9ddf
 121,Justina Lim,lim.just@northeastern.edu,Forge,0,PENDING,,
 122,Simran Sethi,sethi.sim@northeastern.edu,Forge,0,PENDING,,
 123,Grace Whitney,whitney.gr@northeastern.edu,Forge,0,PENDING,,
