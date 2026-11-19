@@ -104,9 +104,9 @@ position,name,email,organizations,tier,status,sent_at,message_id
 103,Leven Chen,chen.lev@northeastern.edu,Forge,0,SENT,2026-11-18T17:17:58-05:00,1a1f0bcf0455eb61
 104,Evan Chu,chu.ev@northeastern.edu,Forge,0,SENT,2026-11-18T17:19:45-05:00,1a1f0be8e153f337
 105,Aayati Patel,patel.aaya@northeastern.edu,Forge,0,SENT,2026-11-18T17:21:33-05:00,1a1f0c02c32a1432
-106,Manan Gangwani,gangwani.m@northeastern.edu,Forge,0,PENDING,,
-107,Eli Zislis,zislis.e@northeastern.edu,Mosaic,0,PENDING,,
-108,Shreya Chellu,chellu.sh@northeastern.edu,Forge,0,PENDING,,
+106,Manan Gangwani,gangwani.m@northeastern.edu,Forge,0,SENT,2026-11-19T09:17:39-05:00,1a1f42b8eeb4bd09
+107,Eli Zislis,zislis.e@northeastern.edu,Mosaic,0,SENT,2026-11-19T09:19:37-05:00,1a1f42d58c3fe2a2
+108,Shreya Chellu,chellu.sh@northeastern.edu,Forge,0,SENT,2026-11-19T09:21:36-05:00,1a1f42f22f13a4af
 109,Simran Sehgal,sehgal.sim@northeastern.edu,Forge,0,PENDING,,
 110,Grace Chau,chau.gr@northeastern.edu,Forge,0,PENDING,,
 111,Tanay Mehrish,mehrish.t@northeastern.edu,Northeastern University Systematic Alpha,0,PENDING,,
