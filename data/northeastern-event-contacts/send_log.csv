@@ -133,3 +133,6 @@ sent_at,email,name,position,message_id,kind
 2026-11-19T15:20:00-05:00,bao.a@northeastern.edu,Alan Bao,131,1a1f57749319c096,queue
 2026-11-19T15:21:57-05:00,patel.m18@northeastern.edu,Mahi Patel,132,1a1f57914ad66ca6,queue
 2026-11-19T15:23:57-05:00,apostolo.y@northeastern.edu,Yianni Apostolo,133,1a1f57adf2a2f86f,queue
+2026-11-19T16:19:02-05:00,shrestha.t@northeastern.edu,Tara Shrestha,134,1a1f5ad567e9aaff,queue
+2026-11-19T16:20:59-05:00,lu.meli@northeastern.edu,Melinda Lu,135,1a1f5af1f7f75948,queue
+2026-11-19T16:23:07-05:00,olosky.j@northeastern.edu,Julia Olosky,136,1a1f5b1103bcd3b9,queue
