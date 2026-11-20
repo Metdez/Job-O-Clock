@@ -152,3 +152,7 @@ sent_at,email,name,position,message_id,kind
 2026-11-20T11:20:22-05:00,thornal.a@northeastern.edu,Audrey Thornal,150,1a1f9c24572fbbbb,queue
 2026-11-20T11:22:25-05:00,knox.i@northeastern.edu,Isao Knox,151,1a1f9c4257b161c6,queue
 2026-11-20T11:24:33-05:00,patel.khushi3@northeastern.edu,Khushi Patel,152,1a1f9c6135fcd4d3,queue
+2026-11-20T12:18:11-05:00,quartarone.s@northeastern.edu,Stephen Quartarone,153,1a1f9f7306211326,queue
+2026-11-20T12:20:07-05:00,marrapu.a@northeastern.edu,Archi Marrapu,154,1a1f9f8f7467790d,queue
+2026-11-20T12:22:08-05:00,garcia.chris@northeastern.edu,Christian Garcia,155,1a1f9fad0037f510,queue
+2026-11-20T12:24:17-05:00,kathuria.r@northeastern.edu,Rohan Kathuria,156,1a1f9fcc03209384,queue
