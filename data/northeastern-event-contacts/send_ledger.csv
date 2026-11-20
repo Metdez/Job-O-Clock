@@ -143,10 +143,10 @@ position,name,email,organizations,tier,status,sent_at,message_id
 142,Itamar Dekel,dekel.i@northeastern.edu,Forge,0,SENT,2026-11-20T09:20:09-05:00,1a1f954323d61ae8
 143,Neda Stoeva,stoeva.n@northeastern.edu,Northeastern University Researchers of Neuroscience,0,SENT,2026-11-20T09:22:06-05:00,1a1f955fd1bc748d
 144,Ajay Gulati,gulati.aj@northeastern.edu,Forge | Private Equity and Venture Capital Club (NU PEVC),0,SENT,2026-11-20T09:24:14-05:00,1a1f957ebca705b1
-145,Chloe Caliboso,caliboso.c@northeastern.edu,Forge,0,PENDING,,
-146,Matthew Chen,chen.m5@northeastern.edu,Forge,0,PENDING,,
-147,Jocelyn Lin,lin.joc@northeastern.edu,Forge,0,PENDING,,
-148,Seth Brown,brown.set@northeastern.edu,Forge,0,PENDING,,
+145,Chloe Caliboso,caliboso.c@northeastern.edu,Forge,0,SENT,2026-11-20T10:17:57-05:00,1a1f9891d543b4b3
+146,Matthew Chen,chen.m5@northeastern.edu,Forge,0,SENT,2026-11-20T10:19:53-05:00,1a1f98ae2dba963f
+147,Jocelyn Lin,lin.joc@northeastern.edu,Forge,0,SENT,2026-11-20T10:21:55-05:00,1a1f98cbe6d7bd6b
+148,Seth Brown,brown.set@northeastern.edu,Forge,0,SENT,2026-11-20T10:24:02-05:00,1a1f98eaaab58233
 149,Max Eng,eng.max@northeastern.edu,Forge | NU AI Safety,0,PENDING,,
 150,Audrey Thornal,thornal.a@northeastern.edu,Forge,0,PENDING,,
 151,Isao Knox,knox.i@northeastern.edu,Finance and Investment Club,0,PENDING,,
