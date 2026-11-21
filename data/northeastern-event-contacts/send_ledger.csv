@@ -193,11 +193,11 @@ position,name,email,organizations,tier,status,sent_at,message_id
 192,Katherine Kim,kim.kather@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,0,SENT,2026-11-21T13:20:19-05:00,1a1ff566ee367f4a
 193,Joshau Doodnauth,doodnauth.j@northeastern.edu,Forge,0,SENT,2026-11-21T13:22:21-05:00,1a1ff584a6644e30
 194,Jonah Brockman,brockman.j@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),0,SENT,2026-11-21T13:24:19-05:00,1a1ff5a13a4f0d65
-195,Susan Kim,kim.susa@northeastern.edu,Generate,0,PENDING,,
-196,Richie Nguyen,nguyen.ric@northeastern.edu,Forge,0,PENDING,,
-197,Josh Kark,kark.j@northeastern.edu,Forge,0,PENDING,,
-198,Shashank Sharma,sharma.shashan@northeastern.edu,Forge,0,PENDING,,
-199,Colin Farley,farley.c@northeastern.edu,Bull & Bear Research,0,PENDING,,
+195,Susan Kim,kim.susa@northeastern.edu,Generate,0,SENT,2026-11-21T14:17:36-05:00,1a1ff8ae1141f4f3
+196,Richie Nguyen,nguyen.ric@northeastern.edu,Forge,0,SENT,2026-11-21T14:19:33-05:00,1a1ff8ca9a1ba4e9
+197,Josh Kark,kark.j@northeastern.edu,Forge,0,SENT,2026-11-21T14:21:34-05:00,1a1ff8e850804fce
+198,Shashank Sharma,sharma.shashan@northeastern.edu,Forge,0,SENT,2026-11-21T14:23:31-05:00,1a1ff904db058854
+199,Colin Farley,farley.c@northeastern.edu,Bull & Bear Research,0,SENT,2026-11-21T14:25:39-05:00,1a1ff923beeb155b
 200,Alina Hussain,hussain.ali@northeastern.edu,NUImpact | Private Equity and Venture Capital Club (NU PEVC),0,PENDING,,
 201,Nidhi John,john.nid@northeastern.edu,Forge,0,PENDING,,
 202,Allan Zhen,zhen.al@northeastern.edu,Forge,0,PENDING,,
