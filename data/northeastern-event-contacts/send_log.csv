@@ -186,3 +186,7 @@ sent_at,email,name,position,message_id,kind
 2026-11-21T11:19:31-05:00,chen.kenny@northeastern.edu,Kenny Chen,184,1a1fee7d79f22e3e,queue
 2026-11-21T11:21:37-05:00,malmud.a@northeastern.edu,Abigail Malmud,185,1a1fee9c51a47472,queue
 2026-11-21T11:23:35-05:00,patel.mek@northeastern.edu,Meksha Patel,186,1a1feeb8b07da6bb,queue
+2026-11-21T12:18:15-05:00,bacon.e@northeastern.edu,Ellie Bacon,187,1a1ff1d9c6216f85,queue
+2026-11-21T12:20:15-05:00,patil.shru@northeastern.edu,Shruti Patil,188,1a1ff1f6e45bf2f3,queue
+2026-11-21T12:22:18-05:00,challapalli.si@northeastern.edu,SaiCharan Challapalli,189,1a1ff21533a9352f,queue
+2026-11-21T12:24:21-05:00,chaudhari.lo@northeastern.edu,Lochan Chaudhari,190,1a1ff23228ed64fb,queue
