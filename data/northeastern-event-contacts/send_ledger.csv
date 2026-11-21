@@ -189,10 +189,10 @@ position,name,email,organizations,tier,status,sent_at,message_id
 188,Shruti Patil,patil.shru@northeastern.edu,AI Skunkworks,0,SENT,2026-11-21T12:20:15-05:00,1a1ff1f6e45bf2f3
 189,SaiCharan Challapalli,challapalli.si@northeastern.edu,Forge,0,SENT,2026-11-21T12:22:18-05:00,1a1ff21533a9352f
 190,Lochan Chaudhari,chaudhari.lo@northeastern.edu,Network Science Institute Graduate Student Association,0,SENT,2026-11-21T12:24:21-05:00,1a1ff23228ed64fb
-191,Karena Yau,yau.ka@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,0,PENDING,,
-192,Katherine Kim,kim.kather@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,0,PENDING,,
-193,Joshau Doodnauth,doodnauth.j@northeastern.edu,Forge,0,PENDING,,
-194,Jonah Brockman,brockman.j@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),0,PENDING,,
+191,Karena Yau,yau.ka@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,0,SENT,2026-11-21T13:18:22-05:00,1a1ff54a71719e9d
+192,Katherine Kim,kim.kather@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,0,SENT,2026-11-21T13:20:19-05:00,1a1ff566ee367f4a
+193,Joshau Doodnauth,doodnauth.j@northeastern.edu,Forge,0,SENT,2026-11-21T13:22:21-05:00,1a1ff584a6644e30
+194,Jonah Brockman,brockman.j@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),0,SENT,2026-11-21T13:24:19-05:00,1a1ff5a13a4f0d65
 195,Susan Kim,kim.susa@northeastern.edu,Generate,0,PENDING,,
 196,Richie Nguyen,nguyen.ric@northeastern.edu,Forge,0,PENDING,,
 197,Josh Kark,kark.j@northeastern.edu,Forge,0,PENDING,,
