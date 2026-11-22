@@ -229,10 +229,10 @@ position,name,email,organizations,tier,status,sent_at,message_id
 228,Luke Medalla,medalla.l@northeastern.edu,Mosaic,0,SENT,2026-11-22T13:20:07-05:00,1a2047c9f95998be
 229,Ryan Chang,chang.ry@northeastern.edu,Forge,0,SENT,2026-11-22T13:22:08-05:00,1a2047e78f491f66
 230,Shana Soyfer,soyfer.s@northeastern.edu,Mosaic,0,SENT,2026-11-22T13:24:11-05:00,1a2048053464d587
-231,Shiv Patel,patel.shiv3@northeastern.edu,AI Northeastern (AINU),0,PENDING,,
-232,Nethra Raju,raju.n@northeastern.edu,Mosaic,0,PENDING,,
-233,Nandeenee Singh,singh.nand@northeastern.edu,Generate,0,PENDING,,
-234,Camryn Cunningham,cunningham.c@northeastern.edu,Generate,0,PENDING,,
+231,Shiv Patel,patel.shiv3@northeastern.edu,AI Northeastern (AINU),0,SENT,2026-11-22T14:17:41-05:00,1a204b150fc4f8a6
+232,Nethra Raju,raju.n@northeastern.edu,Mosaic,0,SENT,2026-11-22T14:19:37-05:00,1a204b31675c89ea
+233,Nandeenee Singh,singh.nand@northeastern.edu,Generate,0,SENT,2026-11-22T14:21:33-05:00,1a204b4dfec35f81
+234,Camryn Cunningham,cunningham.c@northeastern.edu,Generate,0,SENT,2026-11-22T14:23:35-05:00,1a204b6b638170cc
 235,Narayan Sajeev,sajeev.n@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),1,PENDING,,
 236,Lucas Glockner,glockner.l@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),1,PENDING,,
 237,Chloe Lum,lum.c@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,1,PENDING,,
