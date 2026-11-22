@@ -1,8 +1,8 @@
 # Outreach ledger (NEU VC + Founder)
 
-Updated 2026-11-22 12:24 EST. Sender: zack@solid.tech. Cap: 35/day.
+Updated 2026-11-22 13:24 EST. Sender: zack@solid.tech. Cap: 35/day.
 
-- Queue: **588**  |  Sent: **226**  |  Pending: **362**  |  Do-not-email: **0**
+- Queue: **588**  |  Sent: **230**  |  Pending: **358**  |  Do-not-email: **0**
 
 ## Sent per day (queue only)
 
@@ -14,7 +14,7 @@ Updated 2026-11-22 12:24 EST. Sender: zack@solid.tech. Cap: 35/day.
 | 2026-11-19 | 35 |
 | 2026-11-20 | 35 |
 | 2026-11-21 | 35 |
-| 2026-11-22 | 16 |
+| 2026-11-22 | 20 |
 
 ## Extra sends (not counted toward the cap)
 
