@@ -233,10 +233,10 @@ position,name,email,organizations,tier,status,sent_at,message_id
 232,Nethra Raju,raju.n@northeastern.edu,Mosaic,0,SENT,2026-11-22T14:19:37-05:00,1a204b31675c89ea
 233,Nandeenee Singh,singh.nand@northeastern.edu,Generate,0,SENT,2026-11-22T14:21:33-05:00,1a204b4dfec35f81
 234,Camryn Cunningham,cunningham.c@northeastern.edu,Generate,0,SENT,2026-11-22T14:23:35-05:00,1a204b6b638170cc
-235,Narayan Sajeev,sajeev.n@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),1,PENDING,,
-236,Lucas Glockner,glockner.l@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),1,PENDING,,
-237,Chloe Lum,lum.c@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,1,PENDING,,
-238,Karthik Pisupati,pisupati.k@northeastern.edu,Bull & Bear Research | NUImpact,1,PENDING,,
+235,Narayan Sajeev,sajeev.n@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),1,SENT,2026-11-22T15:18:15-05:00,1a204e8c47b3a197
+236,Lucas Glockner,glockner.l@northeastern.edu,Private Equity and Venture Capital Club (NU PEVC),1,SENT,2026-11-22T15:20:11-05:00,1a204ea8ae44445a
+237,Chloe Lum,lum.c@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,1,SENT,2026-11-22T15:22:07-05:00,1a204ec510d1addb
+238,Karthik Pisupati,pisupati.k@northeastern.edu,Bull & Bear Research | NUImpact,1,SENT,2026-11-22T15:24:10-05:00,1a204ee2acecc84e
 239,Avery Neuner,neuner.a@northeastern.edu,WISE — Women’s Interdisciplinary Society of Entrepreneurship,1,PENDING,,
 240,Charlotte Flynn,flynn.char@northeastern.edu,Bull & Bear Research,1,PENDING,,
 241,Garima Penumechchu,penumechchu.g@northeastern.edu,NUImpact | Private Equity and Venture Capital Club (NU PEVC),1,PENDING,,
